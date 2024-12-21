@@ -17,6 +17,10 @@ Each lesson is designed to engage users in an immersive environment where they n
 - **Contract Address:** 
 0x3bf94c618e6e937F13cC4D40192f6E93052ca5B5
 
+![image](https://github.com/user-attachments/assets/51909dcf-86f7-4dae-9ec4-d8a48facc1bf)
+
+
+
 ## Project Vision
 
 The vision of the Learn-to-Earn Streaming Platform is to create an engaging, rewarding learning experience for users of all ages. By combining the fun of RPGs with the value of educational content, we aim to:
